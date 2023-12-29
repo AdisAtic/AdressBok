@@ -281,7 +281,7 @@ namespace cSharp
             {
                 FirstName = "Adis",
                 LastName = "Atic",
-                PhoneNumber = "1234567890",
+                PhoneNumber = "0707090911",
                 Email = "adisatic@gmail.com",
                 Address = new AddressInformation
                 {
@@ -294,30 +294,30 @@ namespace cSharp
             };
             Contact contact2 = new Contact
             {
-                FirstName = "Adde",
-                LastName = "Atiasdfasdc",
-                PhoneNumber = "12adsfasd34567890",
-                Email = "adisatadsfaic@gmail.com",
+                FirstName = "Daniel",
+                LastName = "Hessleklint",
+                PhoneNumber = "0707090922",
+                Email = "daniel.h@gmail.com",
                 Address = new AddressInformation
                 {
-                    StreetName = "Enedalsgatan 4",
+                    StreetName = "Länghemsvägen 1D ",
                     City = "Boras",
-                    ZipCode = "504 52",
+                    ZipCode = "504 72",
 
                 },
 
             };
             Contact contact3 = new Contact
             {
-                FirstName = "Adddfdfdfis",
-                LastName = "Afffc",
-                PhoneNumber = "1234090967890",
-                Email = "adisatidfsfac@gmail.com",
+                FirstName = "Adib",
+                LastName = "Zabihi",
+                PhoneNumber = "0707090933",
+                Email = "adib.zabihi@hm.com",
                 Address = new AddressInformation
                 {
-                    StreetName = "Enedalsgatan 4",
+                    StreetName = "Våglängsgatan 12",
                     City = "Boras",
-                    ZipCode = "504 52",
+                    ZipCode = "504 12",
 
                 },
 
