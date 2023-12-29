@@ -1,0 +1,46 @@
+[
+  {
+    "FirstName": "Adis",
+    "LastName": "Atic",
+    "PhoneNumber": "0707090911",
+    "Email": "adisatic@gmail.com",
+    "Address": {
+      "StreetName": "Enedalsgatan 4",
+      "City": "Boras",
+      "ZipCode": "504 52"
+    }
+  },
+  {
+    "FirstName": "Daniel",
+    "LastName": "Hessleklint",
+    "PhoneNumber": "0707090922",
+    "Email": "daniel.h@hm.com",
+    "Address": {
+      "StreetName": "Länghemsvägen 1D",
+      "City": "Boras",
+      "ZipCode": "504 71"
+    }
+  },
+  {
+    "FirstName": "Adib",
+    "LastName": "Zabihi",
+    "PhoneNumber": "0707090933",
+    "Email": "adib.zabihi@hm.com",
+    "Address": {
+      "StreetName": "Bredängsgatan 12",
+      "City": "Boras",
+      "ZipCode": "504 22"
+    }
+  },
+  {
+    "FirstName": "Samir",
+    "LastName": "Atic",
+    "PhoneNumber": "0707090944",
+    "Email": "samir_at@hotmail.com",
+    "Address": {
+      "StreetName": "Lars Kaggsgatan 89",
+      "City": "Boras",
+      "ZipCode": "504 43"
+    }
+  }
+]

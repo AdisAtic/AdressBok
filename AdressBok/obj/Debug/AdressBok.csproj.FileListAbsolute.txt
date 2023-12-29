@@ -1,0 +1,10 @@
+C:\Users\adisa\source\repos\AdressBok\AdressBok\bin\Debug\AdressBok.exe.config
+C:\Users\adisa\source\repos\AdressBok\AdressBok\bin\Debug\AdressBok.exe
+C:\Users\adisa\source\repos\AdressBok\AdressBok\bin\Debug\AdressBok.pdb
+C:\Users\adisa\source\repos\AdressBok\AdressBok\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adisa\source\repos\AdressBok\AdressBok\bin\Debug\Newtonsoft.Json.xml
+C:\Users\adisa\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.csproj.AssemblyReference.cache
+C:\Users\adisa\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.csproj.CoreCompileInputs.cache
+C:\Users\adisa\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.csproj.CopyComplete
+C:\Users\adisa\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.exe
+C:\Users\adisa\source\repos\AdressBok\AdressBok\obj\Debug\AdressBok.pdb
